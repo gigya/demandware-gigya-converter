@@ -1,0 +1,14 @@
+{
+  "name": "demandware-gigya-converter",
+  "version": "1.0.0",
+  "description": "Convert Demandware XML files to JSON format for import into Gigya",
+  "main": "sampleconverter.js",
+  "scripts": {
+    "test": "node sampleconverter.js data/DemandWareExport.xml data/DemandWareExport.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml-stream": "^0.4.5"
+  }
+}

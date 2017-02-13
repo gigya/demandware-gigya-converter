@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers xmlns="http://www.demandware.com/xml/impex/customer/2006-10-31">
+    <customer customer-no="00010004">
+        <credentials>
+            <login>puru.mupunu@gigya-inc.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$BvP1z2xP5iRzBwdW3M9h9w==$6dYw4nvnQhhBvyMzeVP63e68JPt422Qh431Hzx+MC+E=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>Erin</first-name>
+            <second-name/>
+            <last-name>Mathur</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>puru.mupunu@gigya-inc.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2017-02-12T20:57:30.000Z</creation-date>
+            <last-login-time>2017-02-12T19:10:35.000Z</last-login-time>
+            <last-visit-time>2017-02-12T19:10:35.000Z</last-visit-time>
+            <preferred-locale/>
+        </profile>
+        <addresses>
+            <address address-id="Mountain View" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Puru</first-name>
+                <second-name/>
+                <last-name>Mupunu</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>2513 Charleston Rd</address1>
+                <address2>#200</address2>
+                <suite/>
+                <postbox/>
+                <city>Mountain View</city>
+                <postal-code>94043</postal-code>
+                <state-code>CA</state-code>
+                <country-code>US</country-code>
+                <phone>9348993499</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+    <customer customer-no="00008502">
+        <credentials>
+            <login>puru@gigya.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$PwTLpOVInMIeKtHRMKkhkA==$xLtHjDWG2iEinWDXkQfbFXRmHuMJi3sK98SjvMLVP+s=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>Puru</first-name>
+            <second-name/>
+            <last-name>Mupunu</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>puru@gigya.com</email>
+            <phone-home/>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <gender>0</gender>
+            <creation-date>2017-02-12T20:57:30.000Z</creation-date>
+            <last-login-time>2017-02-12T19:10:35.000Z</last-login-time>
+            <last-visit-time>2017-02-12T19:10:35.000Z</last-visit-time>
+            <preferred-locale/>
+            <custom-attributes>
+                <custom-attribute attribute-id="subscribe">false</custom-attribute>
+            </custom-attributes>
+        </profile>
+        <addresses>
+            <address address-id="Mountain View" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>Puru</first-name>
+                <second-name/>
+                <last-name>Mupunu</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>2513 Charleston Rd</address1>
+                <address2>#200</address2>
+                <suite/>
+                <postbox/>
+                <city>Mountain View</city>
+                <postal-code>94043</postal-code>
+                <state-code>CA</state-code>
+                <country-code>US</country-code>
+                <phone>9348993499</phone>
+            </address>
+            <address address-id="Anchorage" preferred="false">
+                <salutation/>
+                <title/>
+                <first-name>Puru</first-name>
+                <second-name/>
+                <last-name>Mupunu</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>1000 East 1st Street</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>Anchorage</city>
+                <postal-code>99501-3901</postal-code>
+                <state-code>AK</state-code>
+                <country-code>US</country-code>
+                <phone>8347459945</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+
+</customers>
